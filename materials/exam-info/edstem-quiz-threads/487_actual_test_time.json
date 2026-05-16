@@ -1,0 +1,39 @@
+{
+  "id": 3330676,
+  "number": 487,
+  "title": "When is the actual test? It is not appearing in moodle",
+  "type": "question",
+  "category": "Quizzes",
+  "userId": 0,
+  "courseId": 33953,
+  "createdAt": "2026-05-13T12:05:54+10:00",
+  "updatedAt": "2026-05-17T01:06:44+10:00",
+  "document": "Hello, I don’t see announcement on the actual test date, may I know when is it? During applied or workshop?",
+  "metrics": {
+    "viewCount": 227,
+    "replyCount": 1
+  },
+  "flags": [
+    "anonymous"
+  ],
+  "endorsement": {
+    "staffReplyCount": 1,
+    "hasStaffAnswer": true
+  },
+  "users": {
+    "294711": {
+      "name": "Arini Widhiasi",
+      "courseRole": "admin",
+      "role": "user"
+    }
+  },
+  "comments": [
+    {
+      "id": 7273103,
+      "userId": 294711,
+      "document": "The actual test will be conducted next week (Week 11) during your workshop time, so please take note of this. Dr.Nailah will post the details about it soon.",
+      "createdAt": "2026-05-13T18:45:01+10:00",
+      "byStaff": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 3340423,
+  "number": 513,
+  "title": "Quiz Preparation",
+  "type": "announcement",
+  "category": "Quizzes",
+  "userId": 137326,
+  "courseId": 33953,
+  "createdAt": "2026-05-16T17:38:20+10:00",
+  "updatedAt": "2026-05-17T01:06:25+10:00",
+  "document": "Hi guys!\n\nAs mentioned by Dr. Nailah last week, the actual quiz will be harder than the trial quiz. So I'd strongly recommend going through the weekly workshop slides as they are more detailed than the revision notes. The revision notes should be used as a refresher or a last minute check before the quiz starts. But a majority of the understanding and application of the concepts will be from the workshop slides. I hope this helps! 🤗",
+  "metrics": {
+    "voteCount": 4,
+    "viewCount": 120,
+    "starCount": 1
+  },
+  "endorsement": {},
+  "users": {
+    "137326": {
+      "name": "Dini Ahmad Ubaidah",
+      "courseRole": "staff",
+      "role": "user"
+    }
+  }
+}

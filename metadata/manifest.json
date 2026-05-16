@@ -1,0 +1,1362 @@
+[
+  {
+    "week": "Week 10",
+    "id": 4891236,
+    "modname": "resource",
+    "name": "Week 10 workshop presentation File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891236",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_10/4891236_Week_10_workshop_presentation_File/FIT1055_Week10_Seminar_S1_2026_1.pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 7359522
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 10",
+    "id": 5775998,
+    "modname": "resource",
+    "name": "Revision notes File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=5775998",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_10/5775998_Revision_notes_File/FIT1055_IT_Professional_Practice_and_Ethics_Revision_Notes_S2_2025.pdf",
+        "content_type": "application/pdf",
+        "bytes": 1204744
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 10",
+    "id": 5775914,
+    "modname": "quiz",
+    "name": "Trial end-of-semester quiz Monday workshop",
+    "source_url": "https://learning.monash.edu/mod/quiz/view.php?id=5775914",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_10/5775914_Trial_end-of-semester_quiz_Monday_workshop/quiz.txt",
+        "content_type": "text/plain",
+        "bytes": 544
+      },
+      {
+        "path": "fit1055_revision_materials/Week_10/5775914_Trial_end-of-semester_quiz_Monday_workshop/quiz.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 35939
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 10",
+    "id": 4891238,
+    "modname": "resource",
+    "name": "Week 10 applied worksheet File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891238",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_10/4891238_Week_10_applied_worksheet_File/FIT1055_Week_10_applied_worksheet_S2_2024.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 50238
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891104,
+    "modname": "resource",
+    "name": "Notes handout for interpersonal skills File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891104",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_2/4891104_Notes_handout_for_interpersonal_skills_File/Interpersonal_Skills_Week_2_Notes_Handout.pdf",
+        "content_type": "application/pdf",
+        "bytes": 588084
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891106,
+    "modname": "resource",
+    "name": "Week 2 workshop classroom presentation File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891106",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_2/4891106_Week_2_workshop_classroom_presentation_File/FIT1055_Week2_Workshop_S1_2026_(08.03.26).pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 9180563
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891109,
+    "modname": "label",
+    "name": "Week 2 applied classroom In this session: Apply ef...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891110,
+    "modname": "folder",
+    "name": "Applied classroom resources: Please download during your tutorial Folder",
+    "source_url": "https://learning.monash.edu/mod/folder/view.php?id=4891110",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_2/4891110_Applied_classroom_resources_Please_download_during_your_tutorial_Folder/folder.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 162137
+      },
+      {
+        "path": "fit1055_revision_materials/Week_2/4891110_Applied_classroom_resources_Please_download_during_your_tutorial_Folder/FIT1055_Week_2_Communications_Applied_Session_S1_2026_08.03.26).docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 43748
+      },
+      {
+        "path": "fit1055_revision_materials/Week_2/4891110_Applied_classroom_resources_Please_download_during_your_tutorial_Folder/Week_2_Group_Oral_Presentation_Assessment_Rubric_S2_2025.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 40137
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891117,
+    "modname": "resource",
+    "name": "Sample slides using Minto Principle File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891117",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_2/4891117_Sample_slides_using_Minto_Principle_File/managingmillennials-190430091011.pdf",
+        "content_type": "application/pdf",
+        "bytes": 1443150
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891118,
+    "modname": "url",
+    "name": "Minto Pyramid Principle guideline URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891118",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_2/4891118_Minto_Pyramid_Principle_guideline_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 88
+      },
+      {
+        "path": "fit1055_revision_materials/Week_2/4891118_Minto_Pyramid_Principle_guideline_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157538
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891119,
+    "modname": "url",
+    "name": "How to use Minto Principle URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891119",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_2/4891119_How_to_use_Minto_Principle_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 168
+      },
+      {
+        "path": "fit1055_revision_materials/Week_2/4891119_How_to_use_Minto_Principle_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157818
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891120,
+    "modname": "resource",
+    "name": "Logical thinking and writing -Minto Pyramid Principle File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891120",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_2/4891120_Logical_thinking_and_writing_-Minto_Pyramid_Principle_File/Minto_Pyramid_Principle_-_Logic_in_Thinking_and_Writing.ppt",
+        "content_type": "application/vnd.ms-powerpoint",
+        "bytes": 377344
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891121,
+    "modname": "url",
+    "name": "One of the top 10 Ted talk - what a great narrative looks like URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891121",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_2/4891121_One_of_the_top_10_Ted_talk_-_what_a_great_narrative_looks_like_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 146
+      },
+      {
+        "path": "fit1055_revision_materials/Week_2/4891121_One_of_the_top_10_Ted_talk_-_what_a_great_narrative_looks_like_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 1138901
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 2",
+    "id": 4891122,
+    "modname": "url",
+    "name": "Watch video by Amy Cuddy: Your body language shapes who you are URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891122",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_2/4891122_Watch_video_by_Amy_Cuddy_Your_body_language_shapes_who_you_are_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 146
+      },
+      {
+        "path": "fit1055_revision_materials/Week_2/4891122_Watch_video_by_Amy_Cuddy_Your_body_language_shapes_who_you_are_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 1508500
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 4891124,
+    "modname": "resource",
+    "name": "Type of sources note File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891124",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/4891124_Type_of_sources_note_File/Types_of_sources.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 19907
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 4891126,
+    "modname": "resource",
+    "name": "Week 3 workshop classroom presentation File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891126",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/4891126_Week_3_workshop_classroom_presentation_File/FIT1055_Week3_Workshop_S1_2026_v2_-_13.03.26_.pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 2170669
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 5518284,
+    "modname": "resource",
+    "name": "Defining problem statement, step-by-step example File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=5518284",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/5518284_Defining_problem_statement_step-by-step_example_File/FIT1055_Week_3-_Defining_a_Problem_Statement_Step_by_Step_(Example).pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 3754676
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 4891131,
+    "modname": "label",
+    "name": "Week 3 applied classroomIn this session, you willC...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 4891132,
+    "modname": "folder",
+    "name": "Download Week 3+4 applied session resources Folder",
+    "source_url": "https://learning.monash.edu/mod/folder/view.php?id=4891132",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/4891132_Download_Week_3_4_applied_session_resources_Folder/folder.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 163928
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891132_Download_Week_3_4_applied_session_resources_Folder/FIT1055_Sample_Meeting_Agenda.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 19650
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891132_Download_Week_3_4_applied_session_resources_Folder/FIT1055_Sample_Meeting_Minutes.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 21647
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891132_Download_Week_3_4_applied_session_resources_Folder/FIT1055_Week3_4_Combined_Applied_Session_S1_2026_13.03.16_.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 28242
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891132_Download_Week_3_4_applied_session_resources_Folder/Types_of_sources.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 19907
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 4891133,
+    "modname": "url",
+    "name": "Weekly feedback to class URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891133",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/4891133_Weekly_feedback_to_class_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 198
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891133_Weekly_feedback_to_class_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157860
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 5518212,
+    "modname": "url",
+    "name": "Quiz 1: Research sources URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=5518212",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/5518212_Quiz_1_Research_sources_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 79
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/5518212_Quiz_1_Research_sources_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157431
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 5518216,
+    "modname": "url",
+    "name": "Quiz 2: Intelligent research cycle URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=5518216",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/5518216_Quiz_2_Intelligent_research_cycle_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 89
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/5518216_Quiz_2_Intelligent_research_cycle_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157491
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 4891137,
+    "modname": "resource",
+    "name": "5 minutes reading notes on research skills File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891137",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/4891137_5_minutes_reading_notes_on_research_skills_File/FIT1055_Week_4_Pre-Class_5_minutes_notes.pdf",
+        "content_type": "application/pdf",
+        "bytes": 88078
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 4891138,
+    "modname": "page",
+    "name": "Notes on intelligence research cycle process Page",
+    "source_url": "https://learning.monash.edu/mod/page/view.php?id=4891138",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/4891138_Notes_on_intelligence_research_cycle_process_Page/page.txt",
+        "content_type": "text/plain",
+        "bytes": 211
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891138_Notes_on_intelligence_research_cycle_process_Page/page.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157976
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 4891139,
+    "modname": "url",
+    "name": "How to use search operators (Google) URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891139",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/4891139_How_to_use_search_operators_(Google)_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 168
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891139_How_to_use_search_operators_(Google)_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157837
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 3",
+    "id": 4891142,
+    "modname": "folder",
+    "name": "Example files for research Folder",
+    "source_url": "https://learning.monash.edu/mod/folder/view.php?id=4891142",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_3/4891142_Example_files_for_research_Folder/folder.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 163794
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891142_Example_files_for_research_Folder/Asessing_potential_of_GPT-4.pdf",
+        "content_type": "application/pdf",
+        "bytes": 865151
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891142_Example_files_for_research_Folder/CHATGPT.pdf",
+        "content_type": "application/pdf",
+        "bytes": 5916264
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891142_Example_files_for_research_Folder/Ethics_of_ChatGPT.pdf",
+        "content_type": "application/pdf",
+        "bytes": 810305
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891142_Example_files_for_research_Folder/Systematic_review_LGM.pdf",
+        "content_type": "application/pdf",
+        "bytes": 1136713
+      },
+      {
+        "path": "fit1055_revision_materials/Week_3/4891142_Example_files_for_research_Folder/The_ethics_of_ChatGPT_in_medicine_and_healthcare-_a_systematic_review_on_Large_Language_Models_(LLMs).pdf",
+        "content_type": "application/pdf",
+        "bytes": 1045729
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 4",
+    "id": 4891146,
+    "modname": "resource",
+    "name": "Week 4 workshop classroom File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891146",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_4/4891146_Week_4_workshop_classroom_File/FIT1055_Week4_Workshop_S1_2026_13.03.26_.pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 11338887
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 4",
+    "id": 4891148,
+    "modname": "label",
+    "name": "Week 4 applied classroomIn this session, you will ...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 4",
+    "id": 4891149,
+    "modname": "folder",
+    "name": "Download Week 3+4 applied session resources Folder",
+    "source_url": "https://learning.monash.edu/mod/folder/view.php?id=4891149",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_4/4891149_Download_Week_3_4_applied_session_resources_Folder/folder.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 162946
+      },
+      {
+        "path": "fit1055_revision_materials/Week_4/4891149_Download_Week_3_4_applied_session_resources_Folder/FIT1055_Sample_Meeting_Agenda.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 19650
+      },
+      {
+        "path": "fit1055_revision_materials/Week_4/4891149_Download_Week_3_4_applied_session_resources_Folder/FIT1055_Sample_Meeting_Minutes.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 21647
+      },
+      {
+        "path": "fit1055_revision_materials/Week_4/4891149_Download_Week_3_4_applied_session_resources_Folder/FIT1055_Week3_4_Combined_Applied_Session_S1_2026_13.03.16_.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 28242
+      },
+      {
+        "path": "fit1055_revision_materials/Week_4/4891149_Download_Week_3_4_applied_session_resources_Folder/Types_of_sources.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 19907
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 4",
+    "id": 4891152,
+    "modname": "url",
+    "name": "Weekly feedback to class URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891152",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_4/4891152_Weekly_feedback_to_class_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 144
+      },
+      {
+        "path": "fit1055_revision_materials/Week_4/4891152_Weekly_feedback_to_class_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157847
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 4",
+    "id": 5518206,
+    "modname": "url",
+    "name": "Quiz 1: Meetings and its relevance to IT URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=5518206",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_4/5518206_Quiz_1_Meetings_and_its_relevance_to_IT_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 95
+      },
+      {
+        "path": "fit1055_revision_materials/Week_4/5518206_Quiz_1_Meetings_and_its_relevance_to_IT_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157565
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 4",
+    "id": 5518208,
+    "modname": "url",
+    "name": "Quiz 2: Meeting agenda and meeting minutes URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=5518208",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_4/5518208_Quiz_2_Meeting_agenda_and_meeting_minutes_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 97
+      },
+      {
+        "path": "fit1055_revision_materials/Week_4/5518208_Quiz_2_Meeting_agenda_and_meeting_minutes_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157577
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 4",
+    "id": 5518210,
+    "modname": "label",
+    "name": "Star interview technique: example",
+    "source_url": "https://www.youtube.com/watch?v=0nN7Q7DrI6Q",
+    "downloads": [],
+    "notes": [
+      {
+        "external_or_activity_url": "https://www.youtube.com/watch?v=0nN7Q7DrI6Q"
+      }
+    ]
+  },
+  {
+    "week": "Week 4",
+    "id": 5518211,
+    "modname": "label",
+    "name": "Top interview techniques",
+    "source_url": "https://www.youtube.com/watch?v=HG68Ymazo18",
+    "downloads": [],
+    "notes": [
+      {
+        "external_or_activity_url": "https://www.youtube.com/watch?v=HG68Ymazo18"
+      }
+    ]
+  },
+  {
+    "week": "Week 5",
+    "id": 4891158,
+    "modname": "resource",
+    "name": "Workshop week 5 presentation File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891158",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_5/4891158_Workshop_week_5_presentation_File/FIT1055_Week5_Seminar_S1_2026_13.03.26_.pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 4910389
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 5",
+    "id": 4891162,
+    "modname": "label",
+    "name": "Week 5 applied classroomIn this week session, you ...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 5",
+    "id": 4891163,
+    "modname": "folder",
+    "name": "Download applied session files Folder",
+    "source_url": "https://learning.monash.edu/mod/folder/view.php?id=4891163",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_5/4891163_Download_applied_session_files_Folder/folder.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 162132
+      },
+      {
+        "path": "fit1055_revision_materials/Week_5/4891163_Download_applied_session_files_Folder/FIT1055_Applied_Week5.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 29880
+      },
+      {
+        "path": "fit1055_revision_materials/Week_5/4891163_Download_applied_session_files_Folder/Guideline_in_getting_started_automation_and_workflow.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 27250
+      },
+      {
+        "path": "fit1055_revision_materials/Week_5/4891163_Download_applied_session_files_Folder/step_by_step_for_Activity_2_-FIT1055_Week_5_student_applied_S2_2025_worksheet.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 17512
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 5",
+    "id": 4891167,
+    "modname": "label",
+    "name": "Personality Test Activity Instructions:Click on th...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 5",
+    "id": 4891168,
+    "modname": "url",
+    "name": "Another type of personality test: DiSC personality test URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891168",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_5/4891168_Another_type_of_personality_test_DiSC_personality_test_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 123
+      },
+      {
+        "path": "fit1055_revision_materials/Week_5/4891168_Another_type_of_personality_test_DiSC_personality_test_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 158367
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 5",
+    "id": 4891169,
+    "modname": "url",
+    "name": "Another type of personality test: MBTI instruments URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891169",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_5/4891169_Another_type_of_personality_test_MBTI_instruments_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 118
+      },
+      {
+        "path": "fit1055_revision_materials/Week_5/4891169_Another_type_of_personality_test_MBTI_instruments_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 158343
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 5",
+    "id": 4891170,
+    "modname": "resource",
+    "name": "5 minutes personality test File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891170",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_5/4891170_5_minutes_personality_test_File/5minutepersonalitytest.pdf",
+        "content_type": "application/pdf",
+        "bytes": 283131
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 5",
+    "id": 4891172,
+    "modname": "quiz",
+    "name": "Test you understanding Quiz",
+    "source_url": "https://learning.monash.edu/mod/quiz/view.php?id=4891172",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_5/4891172_Test_you_understanding_Quiz/quiz.txt",
+        "content_type": "text/plain",
+        "bytes": 115
+      },
+      {
+        "path": "fit1055_revision_materials/Week_5/4891172_Test_you_understanding_Quiz/quiz.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 159908
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 5",
+    "id": 4891173,
+    "modname": "resource",
+    "name": "Examples of a kanban board for sprints on Trello File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891173",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_5/4891173_Examples_of_a_kanban_board_for_sprints_on_Trello_File/page.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157943
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 5",
+    "id": 5549744,
+    "modname": "url",
+    "name": "Quiz on Teamwork and leadership URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=5549744",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_5/5549744_Quiz_on_Teamwork_and_leadership_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 86
+      },
+      {
+        "path": "fit1055_revision_materials/Week_5/5549744_Quiz_on_Teamwork_and_leadership_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157494
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 6",
+    "id": 4891176,
+    "modname": "folder",
+    "name": "Read code of ethics Folder",
+    "source_url": "https://learning.monash.edu/mod/folder/view.php?id=4891176",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_6/4891176_Read_code_of_ethics_Folder/folder.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 161657
+      },
+      {
+        "path": "fit1055_revision_materials/Week_6/4891176_Read_code_of_ethics_Folder/ACM_code_of_ethics.pdf",
+        "content_type": "application/pdf",
+        "bytes": 151028
+      },
+      {
+        "path": "fit1055_revision_materials/Week_6/4891176_Read_code_of_ethics_Folder/ACS_code_of_ethics.pdf",
+        "content_type": "application/pdf",
+        "bytes": 1161907
+      },
+      {
+        "path": "fit1055_revision_materials/Week_6/4891176_Read_code_of_ethics_Folder/MNCC_Code_of_Ethics.pdf",
+        "content_type": "application/pdf",
+        "bytes": 96334
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 6",
+    "id": 4891178,
+    "modname": "resource",
+    "name": "Week 6 workshop presentation File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891178",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_6/4891178_Week_6_workshop_presentation_File/FIT1055_Week6_Workshop_9_April_26_.pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 3130834
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 6",
+    "id": 4891180,
+    "modname": "label",
+    "name": "Week 6 applied classroomIn this week session, you ...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 6",
+    "id": 4891181,
+    "modname": "resource",
+    "name": "Download week 6 File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891181",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_6/4891181_Download_week_6_File/FIT1055_Week6_Applied_Session_13_April_26_.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 34538
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 6",
+    "id": 5579428,
+    "modname": "url",
+    "name": "Week 6 quiz URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=5579428",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_6/5579428_Week_6_quiz_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 66
+      },
+      {
+        "path": "fit1055_revision_materials/Week_6/5579428_Week_6_quiz_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157394
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 6",
+    "id": 4891185,
+    "modname": "url",
+    "name": "AI for dummies URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891185",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_6/4891185_AI_for_dummies_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 108
+      },
+      {
+        "path": "fit1055_revision_materials/Week_6/4891185_AI_for_dummies_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157702
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 6",
+    "id": 4891186,
+    "modname": "resource",
+    "name": "AI and Ethics article (AI magazine) File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891186",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_6/4891186_AI_and_Ethics_article_(AI_magazine)_File/AI_Magazine_-_2022_-_Goel_-_Looking_back_looking_ahead_Humans_ethics_and_AI.pdf",
+        "content_type": "application/pdf",
+        "bytes": 109176
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 6",
+    "id": 4891187,
+    "modname": "url",
+    "name": "AI and Ethics URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891187",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_6/4891187_AI_and_Ethics_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 107
+      },
+      {
+        "path": "fit1055_revision_materials/Week_6/4891187_AI_and_Ethics_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157807
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 7",
+    "id": 4891191,
+    "modname": "resource",
+    "name": "Please read the science-fiction story \"Today I am Paul File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891191",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_7/4891191_Please_read_the_science-fiction_story_Today_I_am_Paul_File/Today_I_Am_Paul_by_Martin_L._Shoemaker___Clarkesworld_Magazine_Science_Fiction_Fantasy.pdf",
+        "content_type": "application/pdf",
+        "bytes": 645316
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 7",
+    "id": 4891193,
+    "modname": "resource",
+    "name": "Week 7 workshop presentation File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891193",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_7/4891193_Week_7_workshop_presentation_File/FIT1055_Week7_Workshop__24.4.26_S1_2026.pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 4164747
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 7",
+    "id": 5646001,
+    "modname": "url",
+    "name": "Zoom recording of Applied Week 7 URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=5646001",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_7/5646001_Zoom_recording_of_Applied_Week_7_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 132
+      },
+      {
+        "path": "fit1055_revision_materials/Week_7/5646001_Zoom_recording_of_Applied_Week_7_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 158273
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 7",
+    "id": 4891195,
+    "modname": "label",
+    "name": "Week 7 applied classroomIn this week, you will lea...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 7",
+    "id": 5647628,
+    "modname": "label",
+    "name": "Applied Session Week 7 briefing",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 7",
+    "id": 4891197,
+    "modname": "resource",
+    "name": "Week 7 applied worksheet File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891197",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_7/4891197_Week_7_applied_worksheet_File/FIT1055_Week7_Applied_Session_20.4.26_.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 28922
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 7",
+    "id": 4891201,
+    "modname": "url",
+    "name": "answer for week 7 tutorial URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891201",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_7/4891201_answer_for_week_7_tutorial_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 115
+      },
+      {
+        "path": "fit1055_revision_materials/Week_7/4891201_answer_for_week_7_tutorial_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157786
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 8",
+    "id": 4891205,
+    "modname": "resource",
+    "name": "Week 8 workshop presentation File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891205",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_8/4891205_Week_8_workshop_presentation_File/FIT1055_Week8_Workshop__24.4.26_S1_2026.pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 4257528
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 8",
+    "id": 4891207,
+    "modname": "label",
+    "name": "Week 8 applied classroomIn this week session, you ...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 8",
+    "id": 5668618,
+    "modname": "label",
+    "name": "Applied Session Week 8 briefing",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 8",
+    "id": 4891208,
+    "modname": "resource",
+    "name": "Download Week 8 worksheet File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891208",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_8/4891208_Download_Week_8_worksheet_File/FIT1055_Week8_Applied_Session_24.4.26_s1_2026.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 35099
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 8",
+    "id": 4891211,
+    "modname": "url",
+    "name": "Sample answer for week 8 worksheet URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891211",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_8/4891211_Sample_answer_for_week_8_worksheet_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 89
+      },
+      {
+        "path": "fit1055_revision_materials/Week_8/4891211_Sample_answer_for_week_8_worksheet_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157500
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 8",
+    "id": 4891213,
+    "modname": "url",
+    "name": "Other techniques for ideation URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891213",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_8/4891213_Other_techniques_for_ideation_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 146
+      },
+      {
+        "path": "fit1055_revision_materials/Week_8/4891213_Other_techniques_for_ideation_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157870
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 8",
+    "id": 4891214,
+    "modname": "label",
+    "name": "Guest Lecture by Dr Anil Raj (IHMC, USA) on Deonto...",
+    "source_url": "https://www.youtube.com/watch?v=BkTYvkF72TU",
+    "downloads": [],
+    "notes": [
+      {
+        "external_or_activity_url": "https://www.youtube.com/watch?v=BkTYvkF72TU"
+      }
+    ]
+  },
+  {
+    "week": "Week 8",
+    "id": 4891215,
+    "modname": "resource",
+    "name": "Download Week 8 Guest Lecture Slides File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891215",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_8/4891215_Download_Week_8_Guest_Lecture_Slides_File/Deontology_Ethics_and_ML_Small.pdf",
+        "content_type": "application/pdf",
+        "bytes": 1105341
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 9",
+    "id": 4891218,
+    "modname": "label",
+    "name": "WatchLesson PrototypingIn this video lesson you wi...",
+    "source_url": "https://monash.au.panopto.com/Panopto/Pages/Viewer.aspx?id=fc4c0e9f-788d-4af1-94ff-aed10075a462",
+    "downloads": [],
+    "notes": [
+      {
+        "external_or_activity_url": "https://monash.au.panopto.com/Panopto/Pages/Viewer.aspx?id=fc4c0e9f-788d-4af1-94ff-aed10075a462"
+      }
+    ]
+  },
+  {
+    "week": "Week 9",
+    "id": 4891219,
+    "modname": "label",
+    "name": "Creating a mock-up of what it is that we makeProto...",
+    "source_url": "https://www.youtube.com/watch?v=Q4MzT2MEDHA",
+    "downloads": [],
+    "notes": [
+      {
+        "external_or_activity_url": "https://www.youtube.com/watch?v=Q4MzT2MEDHA"
+      }
+    ]
+  },
+  {
+    "week": "Week 9",
+    "id": 4891221,
+    "modname": "resource",
+    "name": "Week 9 workshop presentation File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891221",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_9/4891221_Week_9_workshop_presentation_File/FIT1055_Week9_Workshop_S1_2026.pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 9106144
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 9",
+    "id": 4891225,
+    "modname": "label",
+    "name": "Week 9 applied classroomIn this week session, you ...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 9",
+    "id": 4891226,
+    "modname": "resource",
+    "name": "Download Week 9 worksheet File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891226",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_9/4891226_Download_Week_9_worksheet_File/FIT1055_Week9_Applied_Session_S1_2026_Final.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "bytes": 29554
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 9",
+    "id": 4891228,
+    "modname": "url",
+    "name": "Google Drive Link: You may submit week 9 worksheet here URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891228",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_9/4891228_Google_Drive_Link_You_may_submit_week_9_worksheet_here_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 123
+      },
+      {
+        "path": "fit1055_revision_materials/Week_9/4891228_Google_Drive_Link_You_may_submit_week_9_worksheet_here_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 158382
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 9",
+    "id": 4891230,
+    "modname": "folder",
+    "name": "What is prototype? Folder",
+    "source_url": "https://learning.monash.edu/mod/folder/view.php?id=4891230",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_9/4891230_What_is_prototype_Folder/folder.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 160764
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 9",
+    "id": 4891232,
+    "modname": "label",
+    "name": "Have a Great Mid-Semester Break! (copy)",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 12",
+    "id": 4891251,
+    "modname": "label",
+    "name": "WatchLesson 4: Gibbs Reflective CycleFIT1055 Wk12 ...",
+    "source_url": "https://monash.au.panopto.com/Panopto/Pages/Viewer.aspx?id=439fb8eb-a4b4-44a0-8272-aed10079a944",
+    "downloads": [],
+    "notes": [
+      {
+        "external_or_activity_url": "https://monash.au.panopto.com/Panopto/Pages/Viewer.aspx?id=439fb8eb-a4b4-44a0-8272-aed10079a944"
+      }
+    ]
+  },
+  {
+    "week": "Week 12",
+    "id": 4891252,
+    "modname": "resource",
+    "name": "Week 12 workshop presentation File",
+    "source_url": "https://learning.monash.edu/mod/resource/view.php?id=4891252",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_12/4891252_Week_12_workshop_presentation_File/FIT1055_Wk12_Gibbs_reflective_cycle_S2_2025.pptx",
+        "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "bytes": 11554636
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 12",
+    "id": 4891253,
+    "modname": "label",
+    "name": "Discussion Board ActivityHaving completed Assignme...",
+    "source_url": "",
+    "downloads": [],
+    "notes": []
+  },
+  {
+    "week": "Week 12",
+    "id": 4891257,
+    "modname": "url",
+    "name": "Tutorial on Gibb's reflective cycle -sample URL",
+    "source_url": "https://learning.monash.edu/mod/url/view.php?id=4891257",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_12/4891257_Tutorial_on_Gibb_s_reflective_cycle_-sample_URL/url.txt",
+        "content_type": "text/plain",
+        "bytes": 98
+      },
+      {
+        "path": "fit1055_revision_materials/Week_12/4891257_Tutorial_on_Gibb_s_reflective_cycle_-sample_URL/url.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 157525
+      }
+    ],
+    "notes": []
+  },
+  {
+    "week": "Week 12",
+    "id": 4891259,
+    "modname": "folder",
+    "name": "Case studies Folder",
+    "source_url": "https://learning.monash.edu/mod/folder/view.php?id=4891259",
+    "downloads": [
+      {
+        "path": "fit1055_revision_materials/Week_12/4891259_Case_studies_Folder/folder.html",
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 162307
+      },
+      {
+        "path": "fit1055_revision_materials/Week_12/4891259_Case_studies_Folder/Princeton-AI-Ethics-Case-Study-1_(Automated_Healthcare_App).pdf",
+        "content_type": "application/pdf",
+        "bytes": 273551
+      },
+      {
+        "path": "fit1055_revision_materials/Week_12/4891259_Case_studies_Folder/Princeton-AI-Ethics-Case-Study-2_(Optimizing_Schools).pdf",
+        "content_type": "application/pdf",
+        "bytes": 254776
+      },
+      {
+        "path": "fit1055_revision_materials/Week_12/4891259_Case_studies_Folder/Princeton-AI-Ethics-Case-Study-3_(Hiring_by_Machine).pdf",
+        "content_type": "application/pdf",
+        "bytes": 293885
+      }
+    ],
+    "notes": []
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": 3291889,
+  "number": 353,
+  "title": "week11 test",
+  "type": "question",
+  "category": "General",
+  "userId": 0,
+  "courseId": 33953,
+  "createdAt": "2026-04-30T17:34:20+10:00",
+  "updatedAt": "2026-05-16T12:42:52+10:00",
+  "document": "Do the exam may include MCQs or short-answer/essay questions, depending on the course? Thank you.\n\n",
+  "metrics": {
+    "voteCount": 2,
+    "viewCount": 207,
+    "replyCount": 1
+  },
+  "flags": [
+    "answered",
+    "anonymous"
+  ],
+  "endorsement": {
+    "staffReplyCount": 1,
+    "hasStaffAnswer": true
+  },
+  "users": {
+    "294711": {
+      "name": "Arini Widhiasi",
+      "courseRole": "admin",
+      "role": "user"
+    }
+  },
+  "answers": [
+    {
+      "id": 7195173,
+      "userId": 294711,
+      "document": "Previously was pure MCQ. L Dr.Nailah will make announcement about this closer to the date",
+      "createdAt": "2026-04-30T18:15:00+10:00",
+      "byStaff": true
+    }
+  ]
+}

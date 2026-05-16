@@ -1,0 +1,58 @@
+{
+  "id": 3326515,
+  "number": 475,
+  "title": "end of semester quiz enquiry",
+  "type": "question",
+  "category": "Quizzes",
+  "userId": 0,
+  "courseId": 33953,
+  "createdAt": "2026-05-12T01:33:46+10:00",
+  "updatedAt": "2026-05-17T01:07:09+10:00",
+  "document": "will the sample test for the quiz be posted online or on moodle? ",
+  "metrics": {
+    "viewCount": 249,
+    "replyCount": 3
+  },
+  "flags": [
+    "anonymous"
+  ],
+  "endorsement": {
+    "staffReplyCount": 2,
+    "hasStaffAnswer": true
+  },
+  "users": {
+    "294711": {
+      "name": "Arini Widhiasi",
+      "courseRole": "admin",
+      "role": "user"
+    }
+  },
+  "comments": [
+    {
+      "id": 7263977,
+      "userId": 294711,
+      "document": "Hi, You need to attend the workshop sessions and the trial quiz will begin in\n\np s for the actual test Make sure to also have the safe exam browser installed",
+      "createdAt": "2026-05-12T12:29:09+10:00",
+      "byStaff": true,
+      "comments": [
+        {
+          "id": 7264322,
+          "userId": 0,
+          "document": "hi i was unable to attend the workshop this morning due to a fever, will that affect my grades",
+          "createdAt": "2026-05-12T13:17:41+10:00",
+          "anonymous": true,
+          "comments": [
+            {
+              "id": 7264393,
+              "userId": 294711,
+              "document": "This trial test is not graded. I will suggest that you contact Dr.Nailah personally to see if there is alternative arrangement  if you want to take this test outside your  workshop allocation time ",
+              "createdAt": "2026-05-12T13:25:41+10:00",
+              "voteCount": 1,
+              "byStaff": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

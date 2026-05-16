@@ -1,0 +1,84 @@
+materials/exam-info/README.md
+materials/exam-info/edstem-quiz-threads/353_question_format.json
+materials/exam-info/edstem-quiz-threads/475_trial_quiz_and_seb.json
+materials/exam-info/edstem-quiz-threads/487_actual_test_time.json
+materials/exam-info/edstem-quiz-threads/489_quiz_scope.json
+materials/exam-info/edstem-quiz-threads/506_test_venue.json
+materials/exam-info/edstem-quiz-threads/513_quiz_preparation.json
+materials/exam-info/edstem-quiz-threads/index.json
+materials/week-02-communication/readings/Interpersonal Skills Week 2 Notes Handout.pdf
+materials/week-02-communication/readings/managingmillennials-190430091011.pdf
+materials/week-02-communication/slides/FIT1055 Week2 Workshop S1 2026 (08.03.26).pptx
+materials/week-02-communication/slides/Minto Pyramid Principle - Logic in Thinking and Writing.ppt
+materials/week-02-communication/source-pages/How_to_use_Minto_Principle_URL/url.txt
+materials/week-02-communication/source-pages/Minto_Pyramid_Principle_guideline_URL/url.txt
+materials/week-02-communication/source-pages/One_of_the_top_10_Ted_talk_-_what_a_great_narrative_looks_like_URL/url.txt
+materials/week-02-communication/source-pages/Watch_video_by_Amy_Cuddy_Your_body_language_shapes_who_you_are_URL/url.txt
+materials/week-02-communication/worksheets/FIT1055 Week 2 Communications Applied Session S1 2026 08.03.26).docx
+materials/week-02-communication/worksheets/Week 2 Group Oral Presentation Assessment Rubric S2 2025.docx
+materials/week-03-research/handouts/Types of sources.docx
+materials/week-03-research/readings/Asessing potential of GPT-4.pdf
+materials/week-03-research/readings/CHATGPT.pdf
+materials/week-03-research/readings/Ethics of ChatGPT.pdf
+materials/week-03-research/readings/FIT1055 Week 4 Pre-Class 5 minutes notes.pdf
+materials/week-03-research/readings/Systematic review LGM.pdf
+materials/week-03-research/readings/The ethics of ChatGPT in medicine and healthcare- a systematic review on Large Language Models (LLMs).pdf
+materials/week-03-research/slides/FIT1055 Week 3- Defining a Problem Statement Step by Step (Example).pptx
+materials/week-03-research/slides/FIT1055 Week3 Workshop S1 2026 v2 - 13.03.26.pptx
+materials/week-03-research/source-pages/How_to_use_search_operators_(Google)_URL/url.txt
+materials/week-03-research/source-pages/Notes_on_intelligence_research_cycle_process_Page/page.txt
+materials/week-03-research/source-pages/Quiz_1_Research_sources_URL/url.txt
+materials/week-03-research/source-pages/Quiz_2_Intelligent_research_cycle_URL/url.txt
+materials/week-03-research/source-pages/Weekly_feedback_to_class_URL/url.txt
+materials/week-03-research/worksheets/FIT1055 Sample Meeting Agenda.docx
+materials/week-03-research/worksheets/FIT1055 Sample Meeting Minutes.docx
+materials/week-03-research/worksheets/FIT1055 Week3 4 Combined Applied Session S1 2026 13.03.16.docx
+materials/week-03-research/worksheets/Types of sources.docx
+materials/week-04-meetings/slides/FIT1055 Week4 Workshop S1 2026 13.03.26.pptx
+materials/week-04-meetings/source-pages/Quiz_1_Meetings_and_its_relevance_to_IT_URL/url.txt
+materials/week-04-meetings/source-pages/Quiz_2_Meeting_agenda_and_meeting_minutes_URL/url.txt
+materials/week-04-meetings/source-pages/Weekly_feedback_to_class_URL/url.txt
+materials/week-04-meetings/worksheets/FIT1055 Sample Meeting Agenda.docx
+materials/week-04-meetings/worksheets/FIT1055 Sample Meeting Minutes.docx
+materials/week-04-meetings/worksheets/FIT1055 Week3 4 Combined Applied Session S1 2026 13.03.16.docx
+materials/week-04-meetings/worksheets/Types of sources.docx
+materials/week-05-teamwork-leadership/readings/5minutepersonalitytest.pdf
+materials/week-05-teamwork-leadership/slides/FIT1055 Week5 Seminar S1 2026 13.03.26.pptx
+materials/week-05-teamwork-leadership/source-pages/Another_type_of_personality_test_DiSC_personality_test_URL/url.txt
+materials/week-05-teamwork-leadership/source-pages/Another_type_of_personality_test_MBTI_instruments_URL/url.txt
+materials/week-05-teamwork-leadership/source-pages/Quiz_on_Teamwork_and_leadership_URL/url.txt
+materials/week-05-teamwork-leadership/source-pages/Test_you_understanding_Quiz/quiz.txt
+materials/week-05-teamwork-leadership/worksheets/FIT1055 Applied Week5.docx
+materials/week-05-teamwork-leadership/worksheets/Guideline in getting started automation and workflow.docx
+materials/week-05-teamwork-leadership/worksheets/step by step for Activity 2 -FIT1055 Week 5 student applied S2 2025 worksheet.docx
+materials/week-06-professional-conduct-ethics/readings/ACM code of ethics.pdf
+materials/week-06-professional-conduct-ethics/readings/ACS code of ethics.pdf
+materials/week-06-professional-conduct-ethics/readings/AI Magazine - 2022 - Goel - Looking back looking ahead Humans ethics and AI.pdf
+materials/week-06-professional-conduct-ethics/readings/MNCC Code of Ethics.pdf
+materials/week-06-professional-conduct-ethics/slides/FIT1055 Week6 Workshop 9 April 26.pptx
+materials/week-06-professional-conduct-ethics/source-pages/AI_and_Ethics_URL/url.txt
+materials/week-06-professional-conduct-ethics/source-pages/AI_for_dummies_URL/url.txt
+materials/week-06-professional-conduct-ethics/source-pages/Week_6_quiz_URL/url.txt
+materials/week-06-professional-conduct-ethics/worksheets/FIT1055 Week6 Applied Session 13 April 26.docx
+materials/week-07-erf-and-ethical-reasoning/readings/Today I Am Paul by Martin L. Shoemaker Clarkesworld Magazine Science Fiction Fantasy.pdf
+materials/week-07-erf-and-ethical-reasoning/slides/FIT1055 Week7 Workshop 24.4.26 S1 2026.pptx
+materials/week-07-erf-and-ethical-reasoning/source-pages/Zoom_recording_of_Applied_Week_7_URL/url.txt
+materials/week-07-erf-and-ethical-reasoning/source-pages/answer_for_week_7_tutorial_URL/url.txt
+materials/week-07-erf-and-ethical-reasoning/worksheets/FIT1055 Week7 Applied Session 20.4.26.docx
+materials/week-08-ideation-and-deontology/readings/Deontology Ethics and ML Small.pdf
+materials/week-08-ideation-and-deontology/slides/FIT1055 Week8 Workshop 24.4.26 S1 2026.pptx
+materials/week-08-ideation-and-deontology/source-pages/Other_techniques_for_ideation_URL/url.txt
+materials/week-08-ideation-and-deontology/source-pages/Sample_answer_for_week_8_worksheet_URL/url.txt
+materials/week-08-ideation-and-deontology/worksheets/FIT1055 Week8 Applied Session 24.4.26 s1 2026.docx
+materials/week-09-prototyping/slides/FIT1055 Week9 Workshop S1 2026.pptx
+materials/week-09-prototyping/source-pages/Google_Drive_Link_You_may_submit_week_9_worksheet_here_URL/url.txt
+materials/week-09-prototyping/worksheets/FIT1055 Week9 Applied Session S1 2026 Final.docx
+materials/week-10-trial-quiz-and-revision/exam-prep/FIT1055 IT Professional Practice and Ethics Revision Notes S2 2025.pdf
+materials/week-10-trial-quiz-and-revision/slides/FIT1055 Week10 Seminar S1 2026 1.pptx
+materials/week-10-trial-quiz-and-revision/source-pages/Trial_end-of-semester_quiz_Monday_workshop/quiz.txt
+materials/week-10-trial-quiz-and-revision/worksheets/FIT1055 Week 10 applied worksheet S2 2024.docx
+materials/week-12-gibbs-reflective-cycle/readings/Princeton-AI-Ethics-Case-Study-1 (Automated Healthcare App).pdf
+materials/week-12-gibbs-reflective-cycle/readings/Princeton-AI-Ethics-Case-Study-2 (Optimizing Schools).pdf
+materials/week-12-gibbs-reflective-cycle/readings/Princeton-AI-Ethics-Case-Study-3 (Hiring by Machine).pdf
+materials/week-12-gibbs-reflective-cycle/slides/FIT1055 Wk12 Gibbs reflective cycle S2 2025.pptx
+materials/week-12-gibbs-reflective-cycle/source-pages/Tutorial_on_Gibb_s_reflective_cycle_-sample_URL/url.txt

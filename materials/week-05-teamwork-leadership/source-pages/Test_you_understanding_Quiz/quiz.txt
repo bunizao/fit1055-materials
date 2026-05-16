@@ -1,0 +1,6 @@
+Completion requirements
+To do:
+Receive a grade
+This is a non-graded quiz
+Attempt quiz
+Grading method: Highest grade
