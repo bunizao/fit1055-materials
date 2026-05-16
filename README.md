@@ -1,6 +1,6 @@
 # FIT1055 Quiz Revision Materials
 
-Private working archive for FIT1055 IT Professional Practice and Ethics, MUM S1 2026.
+Private working archive for FIT1055 IT Professional Practice and Ethics, S1 2026.
 
 This repository collects the Week 11 quiz revision materials retrieved from Moodle and EdStem on 2026-05-16.
 
@@ -51,4 +51,4 @@ Both tools made the archive reproducible without manually clicking through Moodl
 
 ## Access And Copyright
 
-This repository is intended to stay private. Course materials from FIT1055, Moodle, and Monash learning systems remain copyright Monash University and/or the original named authors where applicable. Do not publish, redistribute, or share this repository outside authorised course access.
+Course materials from FIT1055, Moodle, and Monash learning systems remain copyright Monash University and/or the original named authors where applicable.
