@@ -1,8 +1,12 @@
 materials/exam-info/README.md
 materials/exam-info/edstem-quiz-threads/353_question_format.json
 materials/exam-info/edstem-quiz-threads/475_trial_quiz_and_seb.json
+materials/exam-info/edstem-quiz-threads/486_trial_quiz_availability.json
 materials/exam-info/edstem-quiz-threads/487_actual_test_time.json
 materials/exam-info/edstem-quiz-threads/489_quiz_scope.json
+materials/exam-info/edstem-quiz-threads/497_marks_clarification_and_scope.json
+materials/exam-info/edstem-quiz-threads/499_trial_quiz_difficulty.json
+materials/exam-info/edstem-quiz-threads/504_eos_quiz_format.json
 materials/exam-info/edstem-quiz-threads/506_test_venue.json
 materials/exam-info/edstem-quiz-threads/513_quiz_preparation.json
 materials/exam-info/edstem-quiz-threads/index.json

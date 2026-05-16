@@ -1,0 +1,55 @@
+{
+  "id": 3338424,
+  "number": 504,
+  "title": "EOS quiz format",
+  "type": "question",
+  "category": "General",
+  "userId": 773793,
+  "courseId": 33953,
+  "createdAt": "2026-05-15T18:04:47+10:00",
+  "updatedAt": "2026-05-17T01:28:34+10:00",
+  "document": "Hi,\n\nI know that the actual quiz will be harder than the trial quiz, but i also heard that it gives us an idea on \"how\" the questions would look like.\n\nSo i am wondering if how the MCQ questions will be asked in thr actual test will be similar to the trial albeit more difficult?\n\n(For eg. Will there be questions where you're in a work-based situation and you have to choose the correct response similar to the trial questions)",
+  "metrics": {
+    "viewCount": 144,
+    "replyCount": 2
+  },
+  "endorsement": {
+    "staffReplyCount": 2,
+    "hasStaffAnswer": true
+  },
+  "users": {
+    "133395": {
+      "name": "Nik Nailah",
+      "courseRole": "admin",
+      "role": "user"
+    },
+    "294711": {
+      "name": "Arini Widhiasi",
+      "courseRole": "admin",
+      "role": "user"
+    },
+    "773793": {
+      "name": "Jason Phone Myat Nyan",
+      "courseRole": "student",
+      "role": "user",
+      "avatar": "GKvlVczg5JoRohaj1q9YKxQSs_gPetBr8-4GjT9uFbE"
+    }
+  },
+  "comments": [
+    {
+      "id": 7285753,
+      "userId": 294711,
+      "document": "@Nik  hi Dr..",
+      "createdAt": "2026-05-15T20:15:17+10:00",
+      "byStaff": true
+    },
+    {
+      "id": 7285849,
+      "userId": 133395,
+      "document": "Yes similar format, only that the situation based will be a tad more challenging and it is an MQA based, multiple choice question.",
+      "createdAt": "2026-05-15T20:33:33+10:00",
+      "voteCount": 1,
+      "byStaff": true
+    }
+  ]
+}

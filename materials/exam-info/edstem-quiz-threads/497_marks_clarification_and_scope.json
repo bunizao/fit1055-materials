@@ -1,0 +1,25 @@
+{
+  "id": 3334881,
+  "number": 497,
+  "title": "End of semester quiz preparation - marks clarification",
+  "type": "announcement",
+  "category": "General",
+  "userId": 133395,
+  "courseId": 33953,
+  "createdAt": "2026-05-14T15:50:19+10:00",
+  "updatedAt": "2026-05-17T01:29:37+10:00",
+  "document": "Dear all,\n\nTo help you prepare better for the quiz, please note the following marking scheme:\n\n1. Single-answer questions No penalty for incorrect answers.\n\n2. Multiple-answer questions Incorrect selections will incur a mark deduction. For example, if a question requires two answers and you select one correct and one incorrect option, you will receive +50% for the correct selection and −50% for the incorrect one.\n\nThis rule is in place to discourage guessing.\n\nAs for the topics covered, please find the following:\n\ncommunication skills\n\nresearch skills\n\nmeetings\n\nteamwork and leadership\n\nprofessional conduct\n\nERF (all steps)\n\nGibbs reflective cycle (the lecture slides provided here: https://learning.monash.edu/course/view.php?id=38191&section=52#section-54 )\n\nPlease ensure you arrive at least 10 mins before, as we will be taking your attendance. The quiz consists of 20 questions and takes 60 minutes. The venue will be updated on the Assessment page.\n\nHope this clarifies things.\n\nKind regards,\n\nNailah",
+  "metrics": {
+    "voteCount": 9,
+    "viewCount": 411,
+    "starCount": 18
+  },
+  "endorsement": {},
+  "users": {
+    "133395": {
+      "name": "Nik Nailah",
+      "courseRole": "admin",
+      "role": "user"
+    }
+  }
+}

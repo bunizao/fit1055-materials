@@ -1,0 +1,49 @@
+{
+  "id": 3335817,
+  "number": 499,
+  "title": "Trial Quiz",
+  "type": "question",
+  "category": "General",
+  "userId": 0,
+  "courseId": 33953,
+  "createdAt": "2026-05-14T20:47:09+10:00",
+  "updatedAt": "2026-05-17T01:12:12+10:00",
+  "document": "I want to ask if the difficulty of our trial quiz is similar to our final exam, and whether our trial quiz can reflect our general review situation.",
+  "metrics": {
+    "voteCount": 1,
+    "viewCount": 191,
+    "replyCount": 2
+  },
+  "flags": [
+    "anonymous"
+  ],
+  "endorsement": {
+    "staffReplyCount": 1,
+    "hasStaffAnswer": true
+  },
+  "users": {
+    "294711": {
+      "name": "Arini Widhiasi",
+      "courseRole": "admin",
+      "role": "user"
+    }
+  },
+  "comments": [
+    {
+      "id": 7280379,
+      "userId": 294711,
+      "document": "Hi there,\n\nAs mentioned in the workshop by Dr. Nailah, the actual questions will be more difficult than the trial questions, as they are designed to test your understanding and knowledge.",
+      "createdAt": "2026-05-14T21:21:40+10:00",
+      "byStaff": true,
+      "comments": [
+        {
+          "id": 7280484,
+          "userId": 0,
+          "document": "Ok I get it. Thank you :)",
+          "createdAt": "2026-05-14T21:54:30+10:00",
+          "anonymous": true
+        }
+      ]
+    }
+  ]
+}

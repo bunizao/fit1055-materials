@@ -1,0 +1,25 @@
+{
+  "id": 3330578,
+  "number": 486,
+  "title": "Trial Quiz",
+  "type": "announcement",
+  "category": "General",
+  "userId": 133395,
+  "courseId": 33953,
+  "createdAt": "2026-05-13T11:43:54+10:00",
+  "updatedAt": "2026-05-17T01:29:18+10:00",
+  "document": "Dear Students,\n\nI hope you are all doing well.\n\nAs you are aware, your unit schedule — including all Workshop Sessions — forms part of your official timetable. Announcements regarding activities, including the Trial Quiz, are made through the usual unit channels, and attendance at Workshop Sessions is expected as a default commitment on your part.\n\nThe Trial Quiz is made available exclusively during the Workshop Session. It is not offered at any other time, so your presence during those sessions directly determines your ability to attempt it.\n\nIt was also announced on Ed Forum:\n\nhttps://edstem.org/au/courses/33953/discussion/3318837\n\n(I can see 750 views - students were viewing this post)\n\nFor those of you who were unable to attend due to circumstances beyond your control, I understand that life can sometimes present unavoidable situations. However, in order for me to consider any form of accommodation, you will need to provide a valid Medical Certificate (MC) as supporting documentation. Without this, I am unfortunately unable to make exceptions, as it ensures fairness to all students in the cohort who made a commitment to attend during the scheduled time to take the trial quiz.\n\nPlease email your sick leave directly to me if you want to sit for the trial quiz.\n\nWarm regards,\n\nDr. Nailah\n\n",
+  "metrics": {
+    "voteCount": 4,
+    "viewCount": 452,
+    "starCount": 1
+  },
+  "endorsement": {},
+  "users": {
+    "133395": {
+      "name": "Nik Nailah",
+      "courseRole": "admin",
+      "role": "user"
+    }
+  }
+}
