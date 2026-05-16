@@ -1,0 +1,18 @@
+{
+  "source": "materials/week-02-communication/slides/Minto Pyramid Principle - Logic in Thinking and Writing.ppt",
+  "format": "ppt",
+  "warning": "Legacy .ppt binary format. Install LibreOffice and convert to .pptx for slide-level extraction.",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Minto Pyramid Principle - Logic in Thinking and Writing",
+      "text": [
+        "kMDItemAuthors = (",
+        "\"Betty Vandenbosch\"",
+        ")",
+        "kMDItemTitle = \"The Pyramid Principle\""
+      ],
+      "notes": []
+    }
+  ]
+}

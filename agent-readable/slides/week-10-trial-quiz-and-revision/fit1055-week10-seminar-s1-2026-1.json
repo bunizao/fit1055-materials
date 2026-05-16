@@ -1,0 +1,504 @@
+{
+  "source": "materials/week-10-trial-quiz-and-revision/slides/FIT1055 Week10 Seminar S1 2026 1.pptx",
+  "format": "pptx",
+  "warning": null,
+  "slides": [
+    {
+      "number": 1,
+      "title": "FIT1055: IT professional practice and Ethics",
+      "text": [
+        "FIT1055: IT professional practice and Ethics",
+        "Revision week"
+      ],
+      "notes": []
+    },
+    {
+      "number": 2,
+      "title": "Comprehend how Assignments are assessed based on Learning Outcomes",
+      "text": [
+        "Comprehend how Assignments are assessed based on Learning Outcomes",
+        "Comprehend what an authentic assessment (trial end-of-semester quiz)",
+        "Comprehend how to better strategize the use of lecture notes in preparation for the upcoming end-semester-quiz",
+        "Things you will learn by the end of lesson"
+      ],
+      "notes": []
+    },
+    {
+      "number": 3,
+      "title": "Learning outcomes, Program Outcomes, Assignments and Authentic assessment",
+      "text": [
+        "Learning outcomes, Program Outcomes, Assignments and Authentic assessment"
+      ],
+      "notes": [
+        "The professional practices course was developed to address difficulties with soft topic coverage in the degree plan used for many years, along with increased needs that arose from broadening the available degree programs and heightened expectations for computing curricula. Throughout the 80's and 90's, the CSE department offered a single undergraduate degree in Computer Science and Engineering. The first year of the program included a one-hour college-level common course (1104) Introduction to Engineering to provide exposure to the diversity of challenges in engineering, along with another one-hour departmental course (1105) Introduction to Computer Science and Engineering to address further topics on responsibilities and expectations for students in computing. The two-semester capstone senior design sequence (4316/4317) emphasizes an extended design experience in a team setting, but had the additional responsibility for delivering substantial knowledge and assessing student achievement on nontechnical student outcomes. This situation often led to uneven coverage of the non-technical topics from semester to semester depending upon the instructor. Students also found it very challenging to balance between learning the technical topics and soft topics simultaneously. The topics covered in the professional practices course provide a just-in-time coverage of the topics most needed at this stage, and was the primary motivation for offering this class. The new course was also needed to strengthen compliance with ABET criteria as discussed below. In 2003, additional programs in Computer Science and Software Engineering were accredited through CAC and EAC, respectively. After a re-accreditation visit for all three programs in 2006, the Computer Science and Engineering program was renamed to Computer Engineering. Like all ABET accredited programs, each of the three programs has a list of educational objectives (PEOs). These can be found on the departmental website http://cse.uta.edu/ but may be summarized as follows: 1. Initial employment 2. Advance in responsibilities 3. Demonstrate leadership The PEOs are mapped to student learning outcomes and the three degree plans in the following systematic fashion. PEO 1 regards fundamentals indispensable in any effort involving computing in the few years following graduation. PEO 2 regards broader design and teamwork responsibilities. PEO 3 includes attitudes, values, and altruism as a seasoned computing professional of the broadest perspective. When viewed this way, PEO 3 involves the following EAC and CAC student outcomes.",
+        "What characteristics should a professional exhibit?",
+        "Professional bodies each have their own ideas of the characteristics that their members should possess to be considered \"a professional\". These are stated in their codes of conduct and ethics and all of the bodies have their own versions of these. Certain items appear in all of them including:",
+        "keeping up to date with the field",
+        "helping their colleagues advance within their field",
+        "showing concern for the well being of their clients",
+        "adhering to the relevant legislation",
+        "respecting client confidentiality",
+        "we can see that a professional:",
+        "is engaged in one of the learned professions",
+        "has a calling requiring specialized knowledge and often long and intensive academic preparation",
+        "is characterized by or conforming to the technical or ethical standards of a profession",
+        "So professionals spend a long time studying a particular calling"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Assignments and Authentic Assessments are created and assessed based on Learning Outcomes",
+      "text": [
+        "Assignments and Authentic Assessments are created and assessed based on Learning Outcomes",
+        "Assessment (Individual/Group)",
+        "Authentic Assessment",
+        "Learning outcomes",
+        "Assignment 2a, 2b",
+        "QUIZ for all topics on authentic assessments",
+        "Comprehend a range of communication skills and modes that is effective for presentation, management and entrepreneurial",
+        "Assignment 2a,2b, 3",
+        "Distinguishes a variety of techniques to enhance working collaboratively and managing conflict as part of a team",
+        "Assignment 1",
+        "Demonstrate the research process in gathering and management of information, critical evaluation, and responsible dissemination of material into lifelong learning skills.",
+        "Assignment 2a, 2b",
+        "Conceptualise how various code of ethics - ACM, MNCC, ACS applies to IT professionals in a variety of coding and software development scenarios. In this context, discuss how the code of conducts affect their decision making.",
+        "Assignment 2a, 2b",
+        "Evaluate variety of ethical reasoning frameworks in making ethical decisions in the context of social, environment and legal aspects issues arriving from their work.",
+        "Assignment 2a",
+        "Describe how religious and cultural diversity contributes to solving future IT challenges in AI both locally and internationally."
+      ],
+      "notes": [
+        "1. 23. 4.",
+        "5. 6."
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+      "text": [
+        "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+        "BSC Program Outcomes and Bloom’s Domain",
+        "Bloom’s Domain",
+        "Assignments",
+        "FIT1055 Learning Outcomes",
+        "Communication",
+        "Communicate effectively with the computing and data science community about complex computing activities by being able to comprehend and write effective reports, design documentation, make effective presentations, and give and understand clear instructions",
+        "The cognitive domain involves knowledge and the development of intellectual skills. This includes the recall or recognition of specific facts, procedural patterns, and concepts that serve in the development of intellectual abilities and skills.",
+        "Cognitive (application)",
+        "Uses learning in new and concrete situations (higher level of understanding)",
+        "Cognitive (Synthesis)",
+        "Formulates new structures from existing knowledge and skills",
+        "Assignment 2a, 2b",
+        "Comprehend a range of communication skills and modes that is effective for presentation, management and entrepreneurship"
+      ],
+      "notes": [
+        "1. 23. 4.",
+        "5. 6."
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+      "text": [
+        "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+        "BSC Program Outcomes and Bloom’s Domain",
+        "Bloom’s Domain",
+        "Assignments",
+        "FIT1055 Learning Outcomes",
+        "Individual and teamwork",
+        "Function effectively as an individual, and as a member or leader in diverse teams and in multi-disciplinary settings",
+        "Cognitive (application)",
+        "Uses learning in new and concrete situations (higher level of understanding)",
+        "Cognitive (Synthesis)",
+        "Formulates new structures from existing knowledge and skills",
+        "Assignment 2a,2b, 3",
+        "Distinguishes a variety of techniques to enhance working collaboratively and managing conflict as part of a team"
+      ],
+      "notes": []
+    },
+    {
+      "number": 7,
+      "title": "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+      "text": [
+        "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+        "BSC Program Outcomes and Bloom’s Domain",
+        "Bloom’s Domain",
+        "Assignments",
+        "FIT1055 Learning Outcomes",
+        "Individual and teamwork",
+        "Function effectively as an individual, and as a member or leader in diverse teams and in multi-disciplinary settings",
+        "Affective: growth in feelings or emotional areas (Heart)",
+        "The affective domain includes the attitudes with which someone deals with things emotionally, such as feelings, values, appreciation, enthusiasms and motivations.",
+        "Affective (valuing):",
+        "Attaches value or worth to something",
+        "Affective (organization)",
+        "Conceptualizes the value and resolves conflict between it and other values",
+        "Affective (internalizing)",
+        "Integrates the value into a value system that controls behaviour",
+        "Assignment 2a,2b, 3",
+        "Distinguishes a variety of techniques to enhance working collaboratively and managing conflict as part of a team"
+      ],
+      "notes": []
+    },
+    {
+      "number": 8,
+      "title": "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+      "text": [
+        "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+        "BSC Program Outcomes and Bloom’s Domain",
+        "Bloom’s Domain",
+        "Assignments",
+        "FIT1055 Learning Outcomes",
+        "Research Investigation",
+        "Conduct investigations of complex computing and data science problems using research-based knowledge and methods including analysis and interpretation of data, and synthesis of information to provide valid conclusions",
+        "Lifelong learning",
+        "Recognize the need for, and have the preparation and ability to engage in independent learning for continual development as a computing and data science professional.",
+        "The cognitive domain involves knowledge and the development of intellectual skills. This includes the recall or recognition of specific facts, procedural patterns, and concepts that serve in the development of intellectual abilities and skills.",
+        "Cognitive (Analysis)",
+        "Understands both the content and structure of material",
+        "Assignment 1",
+        "Demonstrate the research process in gathering and management of information, critical evaluation, and responsible dissemination of material into lifelong learning skills."
+      ],
+      "notes": [
+        "Lifelong learning"
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+      "text": [
+        "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+        "BSC Program Outcomes and Bloom’s Domain",
+        "Bloom’s Domain",
+        "Assignments",
+        "FIT1055 Learning Outcomes",
+        "Computing Professionalism and Society",
+        "Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to professional engineering practice and solutions to complex computing and data science problems",
+        "Ethics",
+        "Apply ethical principles and commit to professional ethics and responsibilities and norms of computing and data science practice",
+        "Cognitive (Application)",
+        "Uses learning in new and concrete situations (higher level of understanding)Cognitive (Synthesis)",
+        "Formulates new structures from existing knowledge and skills",
+        "Affective (Organization)",
+        "Conceptualizes the value and resolves conflict between it and other values",
+        "Assignment 2a, 2b",
+        "Conceptualise how various code of ethics - ACM, MNCC, ACS applies to IT professionals in a variety of coding and software development scenarios. In this context, discuss how the code of conducts affect their decision making.",
+        "Evaluate variety of ethical reasoning frameworks in making ethical decisions in the context of social, environment and legal aspects issues arriving from their work."
+      ],
+      "notes": [
+        "C3",
+        "Application:",
+        "C5",
+        "C6",
+        "Synthesis:",
+        "Evaluation:",
+        "Organization:"
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+      "text": [
+        "Monash BSC program outcomes, Bloom’s domain mapping to FIT1055 learning outcomes",
+        "BSC Program Outcomes and Bloom’s Domain",
+        "Bloom’s Domain",
+        "Assignments",
+        "FIT1055 Learning Outcomes",
+        "Problem Analysis",
+        "Identify and analyse complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing and data sciences, and relevant domain knowledge",
+        "Cognitive (Evaluation)",
+        "Judges the value of material for a given purpose",
+        "Assignment 2a",
+        "Describe how religious and cultural diversity contributes to solving future IT challenges in AI both locally and internationally."
+      ],
+      "notes": [
+        "Identify and analyse complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing and data sciences, and relevant domain knowledge"
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Class result on Assignment 1",
+      "text": [
+        "Class result on Assignment 1"
+      ],
+      "notes": [
+        "5.8; 8.3; 8; 5; 3.7"
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Class result on Assignment 1",
+      "text": [
+        "Class result on Assignment 1"
+      ],
+      "notes": [
+        "5.8; 8.3; 8; 5; 3.7"
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Class result on Assignment 1",
+      "text": [
+        "Class result on Assignment 1"
+      ],
+      "notes": [
+        "5.8; 8.3; 8; 5; 3.7"
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Class result on Assignment 1",
+      "text": [
+        "Class result on Assignment 1"
+      ],
+      "notes": [
+        "5.8; 8.3; 8; 5; 3.7"
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Feedback Assignment 1:",
+      "text": [
+        "Feedback Assignment 1:",
+        "Writing & Referencing — Critical Weakness (59.3% avg)",
+        "This is the weakest area across all students. Students averaged 5.93/10 marks, indicating widespread struggles with academic integrity and professional communication.",
+        "Missing In-Text Citations: Most students fail to provide proper APA citations for claims, statistics, and evidence. This is repeatedly mentioned as the primary reason for lost marks.",
+        "APA Format Inconsistencies: Even when citations are attempted, errors in APA 7th edition formatting are common—incorrect author-year format, missing page numbers, improper reference lists.",
+        "Grammatical & Typographical Errors: Many submissions contain spelling mistakes, grammatical errors, and inconsistent formatting.",
+        "Weak Transitions: Students struggle with creating seamless transitions between ideas and sections, resulting in arguments that are disjointed."
+      ],
+      "notes": [
+        "5.8; 8.3; 8; 5; 3.7"
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Feedback Assignment 1:",
+      "text": [
+        "Feedback Assignment 1:",
+        "2. Problem Statement — Critical Analysis (69.5% avg)",
+        "Students show basic understanding but lack depth in critical thinking. Average score of 17.37/25 indicates significant room for improvement.",
+        "Shallow HOW Analysis: Descriptions of how AI should work are superficial, lacking technical depth in algorithmic mechanisms and implementation details.",
+        "Weak WHAT Definition: Ethical problems are identified but with limited theoretical application—students fail to clearly define the nature and scope using ethical frameworks.",
+        "Missing Root Cause Analysis: Basic understanding of causation without identifying root causes, cascading effects, or underlying reasons why ethical issues emerge.",
+        "Limited Perspectives: Insufficient consideration of multiple stakeholder perspectives—arguments lack substantial evidence"
+      ],
+      "notes": [
+        "5.8; 8.3; 8; 5; 3.7"
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Feedback Assignment 1:",
+      "text": [
+        "Feedback Assignment 1:",
+        "3. Literature Review — Source Analysis (69.7% avg)",
+        "Analysis tends to be descriptive rather than critical. Students averaged 17.42/25 marks.",
+        "Descriptive vs. Analytical: Students often describe case studies and sources rather than conducting a systematic analysis of how technical limitations create ethical vulnerabilities.",
+        "Poor Source Integration: Instead of synthesizing multiple perspectives to build a nuanced understanding, students present separate narratives from different sources.",
+        "Superficial Technical Understanding: Limited depth in explaining AI techniques and their operational mechanisms—many show only basic understanding.",
+        "Insufficient Critical Evaluation: Students do not critically evaluate sources or establish clear connections between technical functionality and ethical outcomes."
+      ],
+      "notes": [
+        "5.8; 8.3; 8; 5; 3.7"
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Feedback Assignment 1:",
+      "text": [
+        "Feedback Assignment 1:",
+        "4. Conclusion — Synthesis (70.5% avg)",
+        "Relatively strong area but still room for improvement. Students averaged 14.10/20 marks.",
+        "Incomplete Synthesis: While students summarize findings adequately, they do not create comprehensive synthesis that weaves together all investigation elements.",
+        "Lack of Forward-Looking Insights: Missing reflection on emerging trends, future implications, or specific recommendations for professional development.",
+        "Limited Broader Impact: Insufficient critical reflection on implications for the broader computing field beyond immediate case study findings."
+      ],
+      "notes": [
+        "5.8; 8.3; 8; 5; 3.7"
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Feedback Assignment 1:",
+      "text": [
+        "Feedback Assignment 1:",
+        "5. Introduction — Context & Significance (71.7% avg)",
+        "Strongest area overall. Students averaged 14.34/20 marks, but improvement still possible.",
+        "Lack of Quantitative Evidence: Introductions often lack specific statistics, numerical data, or metrics to demonstrate severity and impact.",
+        "Weak Topic Justification: Students fail to provide compelling, evidence-based arguments for topic significance using multiple authoritative sources.",
+        "Missing Professional Relevance: Insufficient explanation of why computing professionals must engage with the ethical issue."
+      ],
+      "notes": [
+        "5.8; 8.3; 8; 5; 3.7"
+      ]
+    },
+    {
+      "number": 20,
+      "title": "In summary main Cognitive Skills to develop is Cognitive (Analysis)",
+      "text": [
+        "In summary main Cognitive Skills to develop is Cognitive (Analysis)",
+        "Developing this Cognitive Analysis skills involve:",
+        "Examining content: Identifying main ideas, supporting evidence, and key arguments within research materials.",
+        "Recognizing structure: Understanding how information is organized, identifying patterns, relationships, and organizational principles.",
+        "Identifying relationships: Seeing connections between concepts, detecting cause-and-effect relationships, and recognizing how different elements work together.",
+        "Distinguishing components: Breaking down complex ideas into manageable parts to better understand the whole."
+      ],
+      "notes": [
+        "Identify and analyse complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing and data sciences, and relevant domain knowledge"
+      ]
+    },
+    {
+      "number": 21,
+      "title": "In summary main Cognitive Skills to develop is Cognitive (Analysis)",
+      "text": [
+        "In summary main Cognitive Skills to develop is Cognitive (Analysis)",
+        "How to Apply Analysis in Research Assignments (which is provided by marking rubric criterion to guide you in this skill development):",
+        "Deconstruct research questions to identify what information is needed",
+        "Break down scholarly articles to understand their methodology, findings, and conclusions",
+        "Compare and contrast different sources to identify points of agreement and contradiction",
+        "Examine evidence to determine its relevance and strength",
+        "Identify underlying assumptions in arguments",
+        "Recognize patterns across multiple sources"
+      ],
+      "notes": [
+        "Identify and analyse complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing and data sciences, and relevant domain knowledge"
+      ]
+    },
+    {
+      "number": 22,
+      "title": "In summary main Cognitive Skills to develop is Cognitive (Analysis)",
+      "text": [
+        "In summary main Cognitive Skills to develop is Cognitive (Analysis)",
+        "How is this a skill for lifelong learning?",
+        "Self-Directed Learning: Strong analysis skills empower individuals to:",
+        "Identify knowledge gaps: Recognizing what you know and what you need to learn",
+        "Evaluate learning resources: Determining which sources are most valuable for your needs",
+        "Structure personal learning: Creating effective self-study approaches tailored to your goals",
+        "Monitor understanding: Assessing your grasp of new information and adjusting as needed"
+      ],
+      "notes": [
+        "Identify and analyse complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing and data sciences, and relevant domain knowledge"
+      ]
+    },
+    {
+      "number": 23,
+      "title": "An authentic assessment is one that requires application of what students have learned to a new situation, and that demands judgment to determine what information and skills are relevant and how they should be used.",
+      "text": [
+        "An authentic assessment is one that requires application of what students have learned to a new situation, and that demands judgment to determine what information and skills are relevant and how they should be used.",
+        "Authentic Assessment"
+      ],
+      "notes": [
+        "The professional practices course was developed to address difficulties with soft topic coverage in the degree plan used for many years, along with increased needs that arose from broadening the available degree programs and heightened expectations for computing curricula. Throughout the 80's and 90's, the CSE department offered a single undergraduate degree in Computer Science and Engineering. The first year of the program included a one-hour college-level common course (1104) Introduction to Engineering to provide exposure to the diversity of challenges in engineering, along with another one-hour departmental course (1105) Introduction to Computer Science and Engineering to address further topics on responsibilities and expectations for students in computing. The two-semester capstone senior design sequence (4316/4317) emphasizes an extended design experience in a team setting, but had the additional responsibility for delivering substantial knowledge and assessing student achievement on nontechnical student outcomes. This situation often led to uneven coverage of the non-technical topics from semester to semester depending upon the instructor. Students also found it very challenging to balance between learning the technical topics and soft topics simultaneously. The topics covered in the professional practices course provide a just-in-time coverage of the topics most needed at this stage, and was the primary motivation for offering this class. The new course was also needed to strengthen compliance with ABET criteria as discussed below. In 2003, additional programs in Computer Science and Software Engineering were accredited through CAC and EAC, respectively. After a re-accreditation visit for all three programs in 2006, the Computer Science and Engineering program was renamed to Computer Engineering. Like all ABET accredited programs, each of the three programs has a list of educational objectives (PEOs). These can be found on the departmental website http://cse.uta.edu/ but may be summarized as follows: 1. Initial employment 2. Advance in responsibilities 3. Demonstrate leadership The PEOs are mapped to student learning outcomes and the three degree plans in the following systematic fashion. PEO 1 regards fundamentals indispensable in any effort involving computing in the few years following graduation. PEO 2 regards broader design and teamwork responsibilities. PEO 3 includes attitudes, values, and altruism as a seasoned computing professional of the broadest perspective. When viewed this way, PEO 3 involves the following EAC and CAC student outcomes.",
+        "What characteristics should a professional exhibit?",
+        "Professional bodies each have their own ideas of the characteristics that their members should possess to be considered \"a professional\". These are stated in their codes of conduct and ethics and all of the bodies have their own versions of these. Certain items appear in all of them including:",
+        "keeping up to date with the field",
+        "helping their colleagues advance within their field",
+        "showing concern for the well being of their clients",
+        "adhering to the relevant legislation",
+        "respecting client confidentiality",
+        "we can see that a professional:",
+        "is engaged in one of the learned professions",
+        "has a calling requiring specialized knowledge and often long and intensive academic preparation",
+        "is characterized by or conforming to the technical or ethical standards of a profession",
+        "So professionals spend a long time studying a particular calling"
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Review of revision notes",
+      "text": [
+        "Review of revision notes"
+      ],
+      "notes": [
+        "The professional practices course was developed to address difficulties with soft topic coverage in the degree plan used for many years, along with increased needs that arose from broadening the available degree programs and heightened expectations for computing curricula. Throughout the 80's and 90's, the CSE department offered a single undergraduate degree in Computer Science and Engineering. The first year of the program included a one-hour college-level common course (1104) Introduction to Engineering to provide exposure to the diversity of challenges in engineering, along with another one-hour departmental course (1105) Introduction to Computer Science and Engineering to address further topics on responsibilities and expectations for students in computing. The two-semester capstone senior design sequence (4316/4317) emphasizes an extended design experience in a team setting, but had the additional responsibility for delivering substantial knowledge and assessing student achievement on nontechnical student outcomes. This situation often led to uneven coverage of the non-technical topics from semester to semester depending upon the instructor. Students also found it very challenging to balance between learning the technical topics and soft topics simultaneously. The topics covered in the professional practices course provide a just-in-time coverage of the topics most needed at this stage, and was the primary motivation for offering this class. The new course was also needed to strengthen compliance with ABET criteria as discussed below. In 2003, additional programs in Computer Science and Software Engineering were accredited through CAC and EAC, respectively. After a re-accreditation visit for all three programs in 2006, the Computer Science and Engineering program was renamed to Computer Engineering. Like all ABET accredited programs, each of the three programs has a list of educational objectives (PEOs). These can be found on the departmental website http://cse.uta.edu/ but may be summarized as follows: 1. Initial employment 2. Advance in responsibilities 3. Demonstrate leadership The PEOs are mapped to student learning outcomes and the three degree plans in the following systematic fashion. PEO 1 regards fundamentals indispensable in any effort involving computing in the few years following graduation. PEO 2 regards broader design and teamwork responsibilities. PEO 3 includes attitudes, values, and altruism as a seasoned computing professional of the broadest perspective. When viewed this way, PEO 3 involves the following EAC and CAC student outcomes.",
+        "What characteristics should a professional exhibit?",
+        "Professional bodies each have their own ideas of the characteristics that their members should possess to be considered \"a professional\". These are stated in their codes of conduct and ethics and all of the bodies have their own versions of these. Certain items appear in all of them including:",
+        "keeping up to date with the field",
+        "helping their colleagues advance within their field",
+        "showing concern for the well being of their clients",
+        "adhering to the relevant legislation",
+        "respecting client confidentiality",
+        "we can see that a professional:",
+        "is engaged in one of the learned professions",
+        "has a calling requiring specialized knowledge and often long and intensive academic preparation",
+        "is characterized by or conforming to the technical or ethical standards of a profession",
+        "So professionals spend a long time studying a particular calling"
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Please download the revision notes on the Moodle page",
+      "text": [
+        "Please download the revision notes on the Moodle page",
+        "*Tips",
+        "Ensure you know how to utilize the table of contents effectively.",
+        "Click on the topic to go straight to it, instead of scrolling through the document",
+        "Notes summarize key points of concepts, techniques",
+        "Authentic assessment is about applying that to scenarios given",
+        "Revision notes"
+      ],
+      "notes": [
+        "The professional practices course was developed to address difficulties with soft topic coverage in the degree plan used for many years, along with increased needs that arose from broadening the available degree programs and heightened expectations for computing curricula. Throughout the 80's and 90's, the CSE department offered a single undergraduate degree in Computer Science and Engineering. The first year of the program included a one-hour college-level common course (1104) Introduction to Engineering to provide exposure to the diversity of challenges in engineering, along with another one-hour departmental course (1105) Introduction to Computer Science and Engineering to address further topics on responsibilities and expectations for students in computing. The two-semester capstone senior design sequence (4316/4317) emphasizes an extended design experience in a team setting, but had the additional responsibility for delivering substantial knowledge and assessing student achievement on nontechnical student outcomes. This situation often led to uneven coverage of the non-technical topics from semester to semester depending upon the instructor. Students also found it very challenging to balance between learning the technical topics and soft topics simultaneously. The topics covered in the professional practices course provide a just-in-time coverage of the topics most needed at this stage, and was the primary motivation for offering this class. The new course was also needed to strengthen compliance with ABET criteria as discussed below. In 2003, additional programs in Computer Science and Software Engineering were accredited through CAC and EAC, respectively. After a re-accreditation visit for all three programs in 2006, the Computer Science and Engineering program was renamed to Computer Engineering. Like all ABET accredited programs, each of the three programs has a list of educational objectives (PEOs). These can be found on the departmental website http://cse.uta.edu/ but may be summarized as follows: 1. Initial employment 2. Advance in responsibilities 3. Demonstrate leadership The PEOs are mapped to student learning outcomes and the three degree plans in the following systematic fashion. PEO 1 regards fundamentals indispensable in any effort involving computing in the few years following graduation. PEO 2 regards broader design and teamwork responsibilities. PEO 3 includes attitudes, values, and altruism as a seasoned computing professional of the broadest perspective. When viewed this way, PEO 3 involves the following EAC and CAC student outcomes.",
+        "What characteristics should a professional exhibit?",
+        "Professional bodies each have their own ideas of the characteristics that their members should possess to be considered \"a professional\". These are stated in their codes of conduct and ethics and all of the bodies have their own versions of these. Certain items appear in all of them including:",
+        "keeping up to date with the field",
+        "helping their colleagues advance within their field",
+        "showing concern for the well being of their clients",
+        "adhering to the relevant legislation",
+        "respecting client confidentiality",
+        "we can see that a professional:",
+        "is engaged in one of the learned professions",
+        "has a calling requiring specialized knowledge and often long and intensive academic preparation",
+        "is characterized by or conforming to the technical or ethical standards of a profession",
+        "So professionals spend a long time studying a particular calling"
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Attempt the trial quiz on Moodle page, since this is a trial, it does not contribute to final grades.",
+      "text": [
+        "Attempt the trial quiz on Moodle page, since this is a trial, it does not contribute to final grades.",
+        "MQA, 40 minutes",
+        "Trial Quiz"
+      ],
+      "notes": [
+        "The professional practices course was developed to address difficulties with soft topic coverage in the degree plan used for many years, along with increased needs that arose from broadening the available degree programs and heightened expectations for computing curricula. Throughout the 80's and 90's, the CSE department offered a single undergraduate degree in Computer Science and Engineering. The first year of the program included a one-hour college-level common course (1104) Introduction to Engineering to provide exposure to the diversity of challenges in engineering, along with another one-hour departmental course (1105) Introduction to Computer Science and Engineering to address further topics on responsibilities and expectations for students in computing. The two-semester capstone senior design sequence (4316/4317) emphasizes an extended design experience in a team setting, but had the additional responsibility for delivering substantial knowledge and assessing student achievement on nontechnical student outcomes. This situation often led to uneven coverage of the non-technical topics from semester to semester depending upon the instructor. Students also found it very challenging to balance between learning the technical topics and soft topics simultaneously. The topics covered in the professional practices course provide a just-in-time coverage of the topics most needed at this stage, and was the primary motivation for offering this class. The new course was also needed to strengthen compliance with ABET criteria as discussed below. In 2003, additional programs in Computer Science and Software Engineering were accredited through CAC and EAC, respectively. After a re-accreditation visit for all three programs in 2006, the Computer Science and Engineering program was renamed to Computer Engineering. Like all ABET accredited programs, each of the three programs has a list of educational objectives (PEOs). These can be found on the departmental website http://cse.uta.edu/ but may be summarized as follows: 1. Initial employment 2. Advance in responsibilities 3. Demonstrate leadership The PEOs are mapped to student learning outcomes and the three degree plans in the following systematic fashion. PEO 1 regards fundamentals indispensable in any effort involving computing in the few years following graduation. PEO 2 regards broader design and teamwork responsibilities. PEO 3 includes attitudes, values, and altruism as a seasoned computing professional of the broadest perspective. When viewed this way, PEO 3 involves the following EAC and CAC student outcomes.",
+        "What characteristics should a professional exhibit?",
+        "Professional bodies each have their own ideas of the characteristics that their members should possess to be considered \"a professional\". These are stated in their codes of conduct and ethics and all of the bodies have their own versions of these. Certain items appear in all of them including:",
+        "keeping up to date with the field",
+        "helping their colleagues advance within their field",
+        "showing concern for the well being of their clients",
+        "adhering to the relevant legislation",
+        "respecting client confidentiality",
+        "we can see that a professional:",
+        "is engaged in one of the learned professions",
+        "has a calling requiring specialized knowledge and often long and intensive academic preparation",
+        "is characterized by or conforming to the technical or ethical standards of a profession",
+        "So professionals spend a long time studying a particular calling"
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Q&A",
+      "text": [
+        "Q&A"
+      ],
+      "notes": [
+        "The professional practices course was developed to address difficulties with soft topic coverage in the degree plan used for many years, along with increased needs that arose from broadening the available degree programs and heightened expectations for computing curricula. Throughout the 80's and 90's, the CSE department offered a single undergraduate degree in Computer Science and Engineering. The first year of the program included a one-hour college-level common course (1104) Introduction to Engineering to provide exposure to the diversity of challenges in engineering, along with another one-hour departmental course (1105) Introduction to Computer Science and Engineering to address further topics on responsibilities and expectations for students in computing. The two-semester capstone senior design sequence (4316/4317) emphasizes an extended design experience in a team setting, but had the additional responsibility for delivering substantial knowledge and assessing student achievement on nontechnical student outcomes. This situation often led to uneven coverage of the non-technical topics from semester to semester depending upon the instructor. Students also found it very challenging to balance between learning the technical topics and soft topics simultaneously. The topics covered in the professional practices course provide a just-in-time coverage of the topics most needed at this stage, and was the primary motivation for offering this class. The new course was also needed to strengthen compliance with ABET criteria as discussed below. In 2003, additional programs in Computer Science and Software Engineering were accredited through CAC and EAC, respectively. After a re-accreditation visit for all three programs in 2006, the Computer Science and Engineering program was renamed to Computer Engineering. Like all ABET accredited programs, each of the three programs has a list of educational objectives (PEOs). These can be found on the departmental website http://cse.uta.edu/ but may be summarized as follows: 1. Initial employment 2. Advance in responsibilities 3. Demonstrate leadership The PEOs are mapped to student learning outcomes and the three degree plans in the following systematic fashion. PEO 1 regards fundamentals indispensable in any effort involving computing in the few years following graduation. PEO 2 regards broader design and teamwork responsibilities. PEO 3 includes attitudes, values, and altruism as a seasoned computing professional of the broadest perspective. When viewed this way, PEO 3 involves the following EAC and CAC student outcomes.",
+        "What characteristics should a professional exhibit?",
+        "Professional bodies each have their own ideas of the characteristics that their members should possess to be considered \"a professional\". These are stated in their codes of conduct and ethics and all of the bodies have their own versions of these. Certain items appear in all of them including:",
+        "keeping up to date with the field",
+        "helping their colleagues advance within their field",
+        "showing concern for the well being of their clients",
+        "adhering to the relevant legislation",
+        "respecting client confidentiality",
+        "we can see that a professional:",
+        "is engaged in one of the learned professions",
+        "has a calling requiring specialized knowledge and often long and intensive academic preparation",
+        "is characterized by or conforming to the technical or ethical standards of a profession",
+        "So professionals spend a long time studying a particular calling"
+      ]
+    }
+  ]
+}

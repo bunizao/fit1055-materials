@@ -6,12 +6,19 @@ This repository collects the Week 11 quiz revision materials retrieved from Mood
 
 ## Start Here
 
+- `agent-readable/`: Markdown and JSON extracts generated for agent consumption.
 - `materials/exam-info/edstem-quiz-threads/`: EdStem quiz posts and staff replies about scope, venue, timing, trial quiz, Safe Exam Browser, and question format.
 - `materials/week-10-trial-quiz-and-revision/`: trial quiz page, revision notes, Week 10 workshop slides, and worksheet.
 - `materials/week-02-communication/` through `materials/week-09-prototyping/`: main examinable weekly materials.
 - `materials/week-12-gibbs-reflective-cycle/`: Week 12 Gibbs reflective cycle materials.
 - `metadata/external-links.md`: external links that were not mirrored locally.
 - `metadata/manifest.json`: full Moodle retrieval index.
+
+## Agent-readable Slides
+
+Slide decks have been extracted into `agent-readable/slides/` as Markdown and JSON. Each extracted deck preserves source path, slide order, slide titles, text blocks, and speaker notes where present.
+
+The extraction script is `tools/extract_slides.py`. It handles `.pptx` directly via ZIP/XML parsing. The single legacy `.ppt` deck is recorded as metadata only because reliable slide-level extraction requires converting it to `.pptx` first.
 
 ## Confirmed Quiz Scope
 

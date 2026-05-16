@@ -1,0 +1,86 @@
+[
+  {
+    "source": "materials/week-02-communication/slides/FIT1055 Week2 Workshop S1 2026 (08.03.26).pptx",
+    "markdown": "agent-readable/slides/week-02-communication/fit1055-week2-workshop-s1-2026-08.03.26.md",
+    "json": "agent-readable/slides/week-02-communication/fit1055-week2-workshop-s1-2026-08.03.26.json",
+    "slide_count": 55,
+    "warning": null
+  },
+  {
+    "source": "materials/week-02-communication/slides/Minto Pyramid Principle - Logic in Thinking and Writing.ppt",
+    "markdown": "agent-readable/slides/week-02-communication/minto-pyramid-principle-logic-in-thinking-and-writing.md",
+    "json": "agent-readable/slides/week-02-communication/minto-pyramid-principle-logic-in-thinking-and-writing.json",
+    "slide_count": 1,
+    "warning": "Legacy .ppt binary format. Install LibreOffice and convert to .pptx for slide-level extraction."
+  },
+  {
+    "source": "materials/week-03-research/slides/FIT1055 Week 3- Defining a Problem Statement Step by Step (Example).pptx",
+    "markdown": "agent-readable/slides/week-03-research/fit1055-week-3-defining-a-problem-statement-step-by-step-example.md",
+    "json": "agent-readable/slides/week-03-research/fit1055-week-3-defining-a-problem-statement-step-by-step-example.json",
+    "slide_count": 17,
+    "warning": null
+  },
+  {
+    "source": "materials/week-03-research/slides/FIT1055 Week3 Workshop S1 2026 v2 - 13.03.26.pptx",
+    "markdown": "agent-readable/slides/week-03-research/fit1055-week3-workshop-s1-2026-v2-13.03.26.md",
+    "json": "agent-readable/slides/week-03-research/fit1055-week3-workshop-s1-2026-v2-13.03.26.json",
+    "slide_count": 28,
+    "warning": null
+  },
+  {
+    "source": "materials/week-04-meetings/slides/FIT1055 Week4 Workshop S1 2026 13.03.26.pptx",
+    "markdown": "agent-readable/slides/week-04-meetings/fit1055-week4-workshop-s1-2026-13.03.26.md",
+    "json": "agent-readable/slides/week-04-meetings/fit1055-week4-workshop-s1-2026-13.03.26.json",
+    "slide_count": 24,
+    "warning": null
+  },
+  {
+    "source": "materials/week-05-teamwork-leadership/slides/FIT1055 Week5 Seminar S1 2026 13.03.26.pptx",
+    "markdown": "agent-readable/slides/week-05-teamwork-leadership/fit1055-week5-seminar-s1-2026-13.03.26.md",
+    "json": "agent-readable/slides/week-05-teamwork-leadership/fit1055-week5-seminar-s1-2026-13.03.26.json",
+    "slide_count": 40,
+    "warning": null
+  },
+  {
+    "source": "materials/week-06-professional-conduct-ethics/slides/FIT1055 Week6 Workshop 9 April 26.pptx",
+    "markdown": "agent-readable/slides/week-06-professional-conduct-ethics/fit1055-week6-workshop-9-april-26.md",
+    "json": "agent-readable/slides/week-06-professional-conduct-ethics/fit1055-week6-workshop-9-april-26.json",
+    "slide_count": 57,
+    "warning": null
+  },
+  {
+    "source": "materials/week-07-erf-and-ethical-reasoning/slides/FIT1055 Week7 Workshop 24.4.26 S1 2026.pptx",
+    "markdown": "agent-readable/slides/week-07-erf-and-ethical-reasoning/fit1055-week7-workshop-24.4.26-s1-2026.md",
+    "json": "agent-readable/slides/week-07-erf-and-ethical-reasoning/fit1055-week7-workshop-24.4.26-s1-2026.json",
+    "slide_count": 34,
+    "warning": null
+  },
+  {
+    "source": "materials/week-08-ideation-and-deontology/slides/FIT1055 Week8 Workshop 24.4.26 S1 2026.pptx",
+    "markdown": "agent-readable/slides/week-08-ideation-and-deontology/fit1055-week8-workshop-24.4.26-s1-2026.md",
+    "json": "agent-readable/slides/week-08-ideation-and-deontology/fit1055-week8-workshop-24.4.26-s1-2026.json",
+    "slide_count": 69,
+    "warning": null
+  },
+  {
+    "source": "materials/week-09-prototyping/slides/FIT1055 Week9 Workshop S1 2026.pptx",
+    "markdown": "agent-readable/slides/week-09-prototyping/fit1055-week9-workshop-s1-2026.md",
+    "json": "agent-readable/slides/week-09-prototyping/fit1055-week9-workshop-s1-2026.json",
+    "slide_count": 45,
+    "warning": null
+  },
+  {
+    "source": "materials/week-10-trial-quiz-and-revision/slides/FIT1055 Week10 Seminar S1 2026 1.pptx",
+    "markdown": "agent-readable/slides/week-10-trial-quiz-and-revision/fit1055-week10-seminar-s1-2026-1.md",
+    "json": "agent-readable/slides/week-10-trial-quiz-and-revision/fit1055-week10-seminar-s1-2026-1.json",
+    "slide_count": 27,
+    "warning": null
+  },
+  {
+    "source": "materials/week-12-gibbs-reflective-cycle/slides/FIT1055 Wk12 Gibbs reflective cycle S2 2025.pptx",
+    "markdown": "agent-readable/slides/week-12-gibbs-reflective-cycle/fit1055-wk12-gibbs-reflective-cycle-s2-2025.md",
+    "json": "agent-readable/slides/week-12-gibbs-reflective-cycle/fit1055-wk12-gibbs-reflective-cycle-s2-2025.json",
+    "slide_count": 29,
+    "warning": null
+  }
+]
