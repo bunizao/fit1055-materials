@@ -8,6 +8,7 @@ This repository collects the Week 11 quiz revision materials retrieved from Mood
 
 - `agent-readable/`: Markdown and JSON extracts generated for agent consumption.
 - `materials/exam-info/edstem-quiz-threads/`: EdStem quiz posts and staff replies about scope, venue, timing, trial quiz, Safe Exam Browser, and question format.
+- `materials/week-10-trial-quiz-and-revision/exam-prep/FIT1055 IT Professional Practice and Ethics Revision Notes S2 2025.pdf`: the key revision-notes PDF. Start here for a compact pass before drilling into weekly workshop slides.
 - `materials/week-10-trial-quiz-and-revision/`: trial quiz page, revision notes, Week 10 workshop slides, and worksheet.
 - `materials/week-02-communication/` through `materials/week-09-prototyping/`: main examinable weekly materials.
 - `materials/week-12-gibbs-reflective-cycle/`: Week 12 Gibbs reflective cycle materials.
@@ -35,6 +36,8 @@ Staff confirmed the quiz scope on EdStem as:
 - Gibbs reflective cycle
 
 Week 10 is included because it contains the trial quiz and revision notes. The actual quiz is expected to be harder than the trial quiz, and the staff recommendation was to prioritise weekly workshop slides over relying only on revision notes.
+
+The revision-notes PDF at `materials/week-10-trial-quiz-and-revision/exam-prep/FIT1055 IT Professional Practice and Ethics Revision Notes S2 2025.pdf` is the most compact exam-prep artifact in this archive. Treat it as the fast overview, then use the weekly workshop slides for depth.
 
 ## Directory Layout
 
