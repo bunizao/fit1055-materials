@@ -81,6 +81,8 @@ This archive was retrieved with:
 
 Both tools made the archive reproducible without manually clicking through Moodle and EdStem.
 
+The Python code in [tools](tools/) is released under the MIT License. This applies only to the retrieval and extraction scripts, not to the course materials, Moodle exports, EdStem exports, PDFs, slides, worksheets, or other archived content.
+
 ## Copyright
 
 Course materials from FIT1055, Moodle, and Monash learning systems remain copyright Monash University and/or the original named authors where applicable.
